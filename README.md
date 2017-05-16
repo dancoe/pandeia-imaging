@@ -1,10 +1,16 @@
 # pandeia-imaging
-Python wrapper for the JWST Pandeia Exposure Time Calculator (ETC): NIRCam Imaging
+Python wrapper for the JWST Pandeia Exposure Time Calculator (ETC)
+
+Simple examples of NIRCam Imaging and the CANUCS GTO program
+
+---
 
 JWST ETC online GUI:
 https://jwst.etc.stsci.edu
 
-For installation instructions and more, see:
+---
+
+For Python engine installation instructions and more, see:
 https://github.com/kvangorkom/pandeia-coronagraphy
 
 My quick start guide to installing AstroConda:
