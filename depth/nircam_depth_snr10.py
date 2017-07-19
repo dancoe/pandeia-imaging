@@ -102,8 +102,8 @@ for filt in filts:
 
     ireadpat = 0
 
-    #mags = np.arange(25.9,31,0.2) + 0.1 - 0.75
-    mags = np.arange(25.9,31,0.1) + 0.1 - 0.75
+    mags = np.arange(25.9,31,0.2) + 0.1
+    mags = mags - 2.5 * log10(snr0 / 5.)
     for mag in mags:
         print filt, 'mag', mag
         nexp = 4
