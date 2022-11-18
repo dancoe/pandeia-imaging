@@ -1,4 +1,10 @@
 # pandeia-imaging
+
+## ** MOVED newer code to:
+https://github.com/dancoe/JWST-ETC-Pandeia
+
+## 
+
 Python wrapper for the JWST Pandeia Exposure Time Calculator (ETC)
 
 JWST ETC online GUI:
